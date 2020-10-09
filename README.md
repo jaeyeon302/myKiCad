@@ -3,8 +3,8 @@ Custom kicad library
 필요한데 못 찾아서 만든 라이브러리
 
 # How to add library & footrpint
-English : https://josefmtd.com/2018/08/14/adding-github-libraries-in-kicad-english/ 
-한국어 : https://m.blog.naver.com/PostView.nhn?blogId=threetsg&logNo=221633287287&proxyReferer=https:%2F%2Fwww.google.com%2F 
+- English : https://josefmtd.com/2018/08/14/adding-github-libraries-in-kicad-english/   
+- 한국어 : https://m.blog.naver.com/PostView.nhn?blogId=threetsg&logNo=221633287287&proxyReferer=https:%2F%2Fwww.google.com%2F 
 
 # Library & Footprint List
 ## Library List
