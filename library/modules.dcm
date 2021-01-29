@@ -11,7 +11,7 @@ K SENSOR, GYRO, ACCELERATION, 6DOF
 $ENDCMP
 #
 $CMP max4466
-D Adafruit MAX4466 Mic Module 
+D Adafruit MAX4466 Mic Module
 K microphone, mic, adafruit, MAX4466
 $ENDCMP
 #

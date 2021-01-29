@@ -1,0 +1,52 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Bourns Inc. PWR163S-25-12R0F
+#
+DEF PWR163S-25-12R0F R 0 40 Y Y 1 L N
+F0 "R" 0 200 50 H V L CNN 
+F1 "PWR163S-25-12R0F" 0 300 50 H V L CNN 
+F2 "Bourns_Inc.-PWR163-0-0-*" 0 400 50 H I L CNN 
+F3 "https://upverter.com/datasheet/d8b21e581ae237a54695018eebe498ddb4d71fae.pdf" 0 500 50 H I L CNN 
+F4 "Yes" 0 600 50 H I L CNN "automotive"
+F5 "Grade 0" 0 700 50 H I L CNN "automotive grade"
+F6 "Res" 0 800 50 H I L CNN "category"
+F7 "Thick Film" 0 900 50 H I L CNN "composition"
+F8 "Passive Components" 0 1000 50 H I L CNN "device class L1"
+F9 "Resistors" 0 1100 50 H I L CNN "device class L2"
+F10 "Chip SMD Resistors" 0 1200 50 H I L CNN "device class L3"
+F11 "RES SMD 12 OHM 1% 25W DPAK" 0 1300 50 H I L CNN "digikey description"
+F12 "PWR163S-25-12R0F-ND" 0 1400 50 H I L CNN "digikey part number"
+F13 "3.17mm" 0 1500 50 H I L CNN "height"
+F14 "Yes" 0 1600 50 H I L CNN "lead free"
+F15 "5d5fbc415be65c04" 0 1700 50 H I L CNN "library id"
+F16 "Bourns Inc." 0 1800 50 H I L CNN "manufacturer"
+F17 "652-PWR163S-25-12R0F" 0 1900 50 H I L CNN "mouser part number"
+F18 "DPAK" 0 2000 50 H I L CNN "package"
+F19 "25W" 0 2100 50 H I L CNN "power rating"
+F20 "12Ω" 0 2200 50 H I L CNN "resistance"
+F21 "Yes" 0 2300 50 H I L CNN "rohs"
+F22 "PWR163" 0 2400 50 H I L CNN "series"
+F23 "100ppm/°C" 0 2500 50 H I L CNN "temperature coefficient"
+F24 "+155°C" 0 2600 50 H I L CNN "temperature range high"
+F25 "-55°C" 0 2700 50 H I L CNN "temperature range low"
+F26 "1%" 0 2800 50 H I L CNN "tolerance"
+F27 "250V" 0 2900 50 H I L CNN "voltage rating"
+DRAW
+X 1 1 100 0 100 R 40 0 1 1 P 
+X 2 2 800 0 100 L 40 0 1 1 P 
+X MNT_1 3 800 -300 100 L 40 40 1 1 P 
+P 2 1 1 0 300 0 330 50 N
+P 2 1 1 0 330 50 380 -50 N
+P 2 1 1 0 380 -50 430 50 N
+P 2 1 1 0 430 50 480 -50 N
+P 2 1 1 0 480 -50 530 50 N
+P 2 1 1 0 530 50 580 -50 N
+P 2 1 1 0 580 -50 600 0 N
+S 200 100 700 -400 1 1 0 f
+P 2 1 1 0 200 0 300 0 N
+P 2 1 1 0 600 0 700 0 N
+ENDDRAW
+ENDDEF
+#
+# End Library
