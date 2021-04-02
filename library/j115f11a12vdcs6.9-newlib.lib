@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# J115F11A12VDCS6.9-NewLib
+#
+DEF J115F11A12VDCS6.9-NewLib U 0 40 Y Y 1 F N
+F0 "U" 0 -250 50 H V C CNN
+F1 "J115F11A12VDCS6.9-NewLib" 0 150 50 H V C CNN
+F2 "" -400 150 50 H I C CNN
+F3 "" -400 150 50 H I C CNN
+DRAW
+S -500 100 500 -200 0 1 0 N
+X V_coil 1 -600 50 100 R 50 50 1 1 I
+X GND_coil 2 -600 -150 100 R 50 50 1 1 I
+X contact_in 3 600 50 100 L 50 50 1 1 I
+X contact_outA 4 600 -50 100 L 50 50 1 1 I
+X contact_outB 5 600 -150 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
